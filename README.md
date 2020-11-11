@@ -14,4 +14,4 @@ By default, it will fetch posts from the website. To fetch pages, use the follow
 `python main.py -u https://fulltimehosting.net --pages`
 
 ## Credits
-<a href="https://www.facebook.com/shaikhmanal0" target="_blank">Manal Shaikh</a> & Somil Gumber.
+This project was forked from original copy because Somil stopped working on it and refuses to transfer ownership. 
