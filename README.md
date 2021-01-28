@@ -6,7 +6,7 @@ WPExtractor is a python-based tool specifically made for Aritificial Intelligenc
 - Saves the data in Json file in the directory for you.
 - Easily understable json format to make your life easier :D
 - Responsive developers. Just make an issue, we'll fix it for you :)
-
+- Graphical User Interface Option - In beta mode
 ## Usage
 **Usage:** <br/>
 `python main.py -u https://csrockers.in` <br />
